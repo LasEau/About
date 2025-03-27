@@ -23,8 +23,7 @@ Basé sur ce socle solide, je me suis lancé le challenge de réaliser des proje
 - **Routing & Switching** : Firewall - Fortigate, Switch - CISCO
 - **Sécurité** : ProxyCloud - Netskope, EDR - Crowdstrike, Antivirus - ESET, Patch and Vulnerability Management - Qualys
 - **Système** : Administration de serveurs Windows / Linux, Gestion de parc, VmWare Vsphere
-- **Développement** : PHP, Framework Symfony, Twig
-- **Simulation & Labs** : TryHackMe (Top 3%), LetsDefend
+- **Développement** : PHP, Framework Symfony, Twig, MySql
 
 ---
 
