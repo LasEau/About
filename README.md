@@ -10,6 +10,7 @@
 ## 👤 About Me
 
 **Administrateur Systèmes et Réseaux* 
+
 Curieux et passionné, j'ai toujours fait évoluer mes compétences en fonction des projets.
 
 Ayant commencé par le système et réseau , j'ai enrichi mes connaissances de l'infrastructure avec la sécurité.
@@ -21,13 +22,11 @@ Basé sur ce socle solide, je me suis lancé le challenge de réaliser des proje
 
 - **Routing & Switching** : Firewall - Fortigate, Switch - CISCO
 - **Sécurité** : ProxyCloud - Netskope, EDR - Crowdstrike, Antivirus - ESET, Patch and Vulnerability Management - Qualys
-- **Système** : Administration de serveurs Windows / Linux, Gestion de parc
-- **Threat Intel / Investigation** : MITRE ATT&CK, CyberChef, VirusTotal, URLScan
+- **Système** : Administration de serveurs Windows / Linux, Gestion de parc, VmWare Vsphere
+- **Développement** : PHP, Framework Symfony, Twig
 - **Simulation & Labs** : TryHackMe (Top 3%), LetsDefend
-- **Scripting** : Python (parsing logs, regex, IOC extraction – basique)
 
 ---
-
 
 ## 🧾 Certifications & Formations
 
